@@ -1,0 +1,6 @@
+.env
+*.parquet
+warehouse/
+__pycache__/
+.vscode/
+.idea/
